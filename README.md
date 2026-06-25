@@ -38,12 +38,14 @@ Enter any research topic when prompted:
 Scout will search, scrape, and generate a full report automatically.
 
 ## Project Structure
+   """
    scout/
    ├── scout.py          # main agent
    ├── requirements.txt  # dependencies
    ├── .env              # API keys (never commit this)
    ├── .gitignore        # ignores .env
    └── README.md
+   """
 
 ## Notes
 - Get your free Groq API key at console.groq.com
